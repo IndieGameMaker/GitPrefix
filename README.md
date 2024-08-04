@@ -1,6 +1,6 @@
 # GitPrefix
 
-###git commit 메시지의 접두사 종류
+### git commit 메시지의 접두사 종류
 
 Git commit 메시지에서 사용하는 대표적인 접두사 종류는 다음과 같습니다:
 
